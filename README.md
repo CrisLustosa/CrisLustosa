@@ -11,3 +11,13 @@
 <a href="https://www.linkedin.com/in/cristianalustosa/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" width="48px" height="48px" data-canonical-src="https://i.ibb.co/Kx2GSrT/linkedin.png" style="max-width:100%;">
 </a>
+<br>
+<p>
+  <strong>Meus interesses pessoais:</strong>
+</p>
+<ul>
+  <li>Estou começando módulo de backend na Trybe;</li>
+  <li>Meus hobbies são jogar tênis, vôlei, fotografar e correr;</li>
+  <li>Me considero uma lifelong learner;</li>
+</ul> 
+  
