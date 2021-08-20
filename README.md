@@ -16,7 +16,7 @@
   <strong>Meus interesses pessoais:</strong>
 </p>
 <ul>
-  <li>Estou começando módulo de backend na Trybe;</li>
+  <li>Atualmente, estou estudando Desenvolvimento Web na Trybe;</li>
   <li>Meus hobbies são jogar tênis, vôlei, fotografar e correr;</li>
   <li>Me considero uma lifelong learner;</li>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji>
