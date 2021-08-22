@@ -23,6 +23,9 @@
     para me encontrar;
 </ul> 
 <br>
+<hr>
+</hr>
+<br>
 <h4>
  Linguagens e ferramentas:
 </h4>
