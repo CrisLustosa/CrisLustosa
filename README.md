@@ -1,4 +1,4 @@
-<p> Olá, me chamo <strong>Cristiana Lustosa</strong>, sou do Rio de Janeiro, Brasil e estudo <strong> Desenvolvimento Web na Trybe.</Strong>
+<p> Olá, me chamo <strong>Cristiana Lustosa</strong>, sou do Rio de Janeiro, Brasil.</Strong>
 <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"><img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji>
   <img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">
 <br>
@@ -14,7 +14,6 @@
   <strong>Meus interesses pessoais:</strong>
 </p>
 <ul>
-  <li>Atualmente, estudo o Módulo de Ciência da Computação na Trybe;</li>
   <li>Meus hobbies são jogar tênis, vôlei, correr, ler e fotografar;</li>
   <li>Me considero uma lifelong learner;</li>
   <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji>
